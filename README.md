@@ -1,6 +1,6 @@
 # Simple laws for building cost-aware, sustainable, and modern architectures.
 
-All credit to Werner Vogals ![Werners site](https://www.thefrugalarchitect.com/)
+All credit to Werner Vogals [Werners Frugal Architect Laws](https://www.thefrugalarchitect.com/)
 
 
 # LAW I.
