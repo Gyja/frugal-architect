@@ -3,7 +3,7 @@
 All credit to Werner Vogals [Werners Frugal Architect Laws](https://www.thefrugalarchitect.com/)
 
 
-# LAW I.
+# LAW I
 ## Make Cost a Non-functional Requirement.
 ![Law I Image](images/Law1.webp)
 ### A non-functional requirement specifies criteria that can be used to judge the operation of a system, rather than specific features or functions. Examples are accessibility, availability, scalability, security, portability, maintainability, and compliance. What often goes overlooked is cost.
@@ -12,7 +12,7 @@ Companies can fail because they don’t consider cost at every stage of the busi
 
 By considering cost implications early and continuously, systems can be designed to balance features, time-to-market, and efficiency. Development can focus on maintaining lean and efficient code. And operations can fine-tune resource usage and spending to maximize profitability.
 
-# LAW II.
+# LAW II
 ## Systems that Last Align Cost to Business.
 ![Law II Image](images/law2.webp)
 ### The durability of a system depends on how well its costs are aligned to the business model. When designing and building systems, we must consider the revenue sources and profit levers. It’s important to find the dimension you’re going to make money over, then make sure the architecture follows the money.
@@ -21,7 +21,7 @@ For example, in e-commerce, that dimension might be the number of orders. When o
 
 As builders, we need to think about revenue – and use that knowledge to inform our choices. Because growth at all costs leads to a trail of destruction.
 
-# LAW III.
+# LAW III
 ## Architecting is a Series of Trade-offs.
 ![Law III Image](images/law3.webp)
 ### In architecture, every decision comes with a trade-off. Cost, resilience, and performance are non-functional requirements that are often at tension with each other.
@@ -30,7 +30,7 @@ As the saying goes, “Everything fails, all the time.” Being able to defend a
 
 It’s crucial to find the right balance between your technical and business needs – to find the sweet spot that aligns with your risk tolerance and budget. Remember, frugality is about maximizing value, not just minimizing spend. And to do that, you need to determine what you’re willing to pay for.
 
-# LAW IV.
+# LAW IV
 ## Unobserved Systems Lead to Unknown Costs.
 ![Law IV Image](images/law4.webp)
 ### Without careful observation and measurement, the true costs of operating a system remain invisible. Like a utility meter tucked away in a basement, lack of visibility enables wasteful habits. Making meters more visible can profoundly shift behaviors.
@@ -41,7 +41,7 @@ When critical cost metrics are placed front-and-center before engineers and thei
 
 Most importantly, keeping costs in the forefront encourages sustainable practices.
 
-# LAW V.
+# LAW V
 ## Cost Aware Architectures Implement Cost Controls.
 ![Law V Image](images/law5.webp)
 ### The essence of frugal architecture is robust monitoring combined with the ability to optimize costs. Well-designed systems allow you to take action on opportunities for improvement. For this to work, decompose applications into tunable building blocks.
@@ -50,7 +50,7 @@ A common approach is tiering components by criticality. Tier 1 components are es
 
 Defining tiers enables trade-offs between cost and other requirements. Granular control over components optimizes both cost and experience. Infrastructure, languages, databases should all be tunable. Architect and build systems with revenue and profit in mind. Cost optimization must be measurable and tied to business impact.
 
-# LAW VI.
+# LAW VI
 ## Cost Optimization is Incremental.
 ![Law VI Image](images/law6.webp)
 ### The pursuit of cost efficiency is an ongoing journey. Even after deployment, we must revisit systems to incrementally improve optimization. The key is continually questioning and diving deeper. Programming languages provide profiling tools to analyze code performance, and while these require setup and expertise, they enable granular analyses that can lead to changes that shave milliseconds. What may seem like small optimizations accumulate into large savings at scale.
@@ -59,7 +59,7 @@ In operations, most time is spent running existing systems. There are opportunit
 
 There is always room for improvement… if we keep looking. The savings we reap today fund innovation for tomorrow.
 
-# LAW VII.
+# LAW VII
 ## Unchallenged Success Leads to Assumptions.
 ![Law VII Image](images/law7.webp)
 ### When software teams achieve significant success without facing major failures or roadblocks, complacency can set in. There is a dangerous tendency to become overconfident in the methods, tools, and practices that led to those wins.
@@ -73,4 +73,4 @@ As Grace Hopper famously stated, one of the most dangerous phrases in the Englis
 ---
 
 ### Why did I do this? 
-I wanted to add some personas to the story that Werner wrote as well as keeping a record for myself on Werner's messaging. It's to good to gloss over ;) - Thanks Werner, insightful as always!
+I wanted to add some personas to the story that Werner wrote as well as keeping a record for myself on Werner's messaging. It's to good too gloss over ;) - Thanks Werner, insightful as always!
