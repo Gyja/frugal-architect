@@ -73,4 +73,4 @@ As Grace Hopper famously stated, one of the most dangerous phrases in the Englis
 ---
 
 ### Why did I do this? 
-I wanted to add some personas to the story that Werner wrote as well as keeping a record for myself on Werner's messaging. It's to good too gloss over ;) - Thanks Werner, insightful as always!
+I wanted to add some personas to the story that Werner wrote as well as keeping a record for myself on Werner's messaging. It's too good to gloss over ;) - Thanks Werner, insightful as always!
