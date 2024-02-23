@@ -76,6 +76,6 @@ As Grace Hopper famously stated, one of the most dangerous phrases in the Englis
 I wanted to add some personas to the story that Werner wrote as well as keeping a record for myself on Werner's messaging. It's too good to gloss over ;) - Thanks Werner, insightful as always!
 
 ### Moar!?
-How about an [8bit version] (https://github.com/Gyja/frugal-architect/blob/main/README-8bit.md) of the persona's
+How about an [8bit version](https://github.com/Gyja/frugal-architect/blob/main/README-8bit.md) of the persona's
 
 
